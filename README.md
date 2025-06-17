@@ -9,10 +9,10 @@ https://physionet.org/content/grabmyo/1.1.0/
 
 ## Media
 
-![Demo Image 1](./media/images/img1.jpeg)  
-![Demo Image 2](./media/images/img2.jpeg)  
-![Demo Image 3](./media/images/img3.jpeg)  
-![Demo Image 4](./media/images/img4.jpeg)
+![Demo Image 1](media/images/img1.jpg)  
+![Demo Image 2](media/images/img2.jpg)  
+![Demo Image 3](media/images/img3.jpg)  
+![Demo Image 4](media/images/img4.jpg)
 
 Watch demo video:
 
