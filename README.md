@@ -9,14 +9,14 @@ https://physionet.org/content/grabmyo/1.1.0/
 
 ## Media
 
-![Demo Image 1](media/images/img1.jpg)  
-![Demo Image 2](media/images/img2.jpg)  
-![Demo Image 3](media/images/img3.jpg)  
-![Demo Image 4](media/images/img4.jpg)
+![Demo Image 1](media/images/1.jpg)  
+![Demo Image 2](media/images/2.jpg)  
+![Demo Image 3](media/images/3.jpg)  
+![Demo Image 4](media/images/4.jpg)
 
 Watch demo video:
 
-- [Demo Video 1](./media/videos/video1.mp4)
+- [Demo Video 1](./media/videos/1.mp4)
 
 ## Features
 - **EMG Simulation:** Preprocessed EMG signals from the GRABMyoda dataset.
