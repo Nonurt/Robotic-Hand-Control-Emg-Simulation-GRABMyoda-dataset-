@@ -9,10 +9,10 @@ https://physionet.org/content/grabmyo/1.1.0/
 
 ## Media
 
-![Demo Image 1](./media/images/img1.jpg)  
-![Demo Image 2](./media/images/img2.jpg)  
-![Demo Image 3](./media/images/img3.jpg)  
-![Demo Image 4](./media/images/img4.jpg)
+![Demo Image 1](./media/images/img1.jpeg)  
+![Demo Image 2](./media/images/img2.jpeg)  
+![Demo Image 3](./media/images/img3.jpeg)  
+![Demo Image 4](./media/images/img4.jpeg)
 
 Watch demo video:
 
@@ -68,7 +68,7 @@ Robotic-Hand-Control-Emg-Simulation-GRABMyo-dataset-/
 └── README.md              # This file
 ```
 
-## License
+THE README İS WRİTTEN BY CHATGPT,  https://physionet.org/content/grabmyo/1.1.0/ THİS PROJECT CAN BE MADE BECAUSE GRABMYO DATASET AND MEDİAPİE EXİSTED.
 This project is released under the MIT License.
 
 ---
